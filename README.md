@@ -1,0 +1,2 @@
+# Client-Server-model-for-inserting-non-information-bits-into-data-i.e-BIT-STUFFING-
+Develop the model in which server will ask the client to enter the 16 bits information. Once the client enter the information and send it to the server, server performs the function of FRAMMING using BIT STUFFING and returns the stuffed data to the client. The client remove the non informatic bits and display the original 16 bits information.
